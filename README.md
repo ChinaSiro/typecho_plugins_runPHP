@@ -1,4 +1,4 @@
-（redeme移步https://raw.githubusercontent.com/ChinaSiro/typecho_plugins_runPHP/master/README.md）
+redeme移步 https://raw.githubusercontent.com/ChinaSiro/typecho_plugins_runPHP/master/README.md 
 # typecho_plugins_runPHP
 typecho1.0插件：在文章内运行php
 作者：ChinaSiro
