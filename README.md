@@ -2,7 +2,7 @@ redeme移步 https://raw.githubusercontent.com/ChinaSiro/typecho_plugins_runPHP/
 # typecho_plugins_runPHP
 typecho1.0插件：在文章内运行php
 作者：ChinaSiro
-博客：http://hedanku.com
+博客：https://www.hedanku.com
 
 # 使用方法
 1.将runPHP目录放到plugins目录中
